@@ -4,8 +4,10 @@ Get Microsoft Focus lock screen wallpapers, automatically save them to the root 
 ## Preview image
 ### Date-based storage
 <img src="./Image/Saved Image1.png" alt="icon"/>
+
 ### Saved Landscape
 <img src="./Image/Saved Landscape.png" alt="icon"/>
+
 ### Saved Portait
 <img src="./Image/Saved Portait.png" alt="icon"/>
 
